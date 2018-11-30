@@ -1,3 +1,7 @@
+This project is meant to provide a simple example of using React Router in conjunction with Create React App. The rest of the README was created as part of Create React App
+
+------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
